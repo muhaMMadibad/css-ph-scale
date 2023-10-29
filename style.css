@@ -1,0 +1,91 @@
+body{
+    background-color:#CACFD2 ;
+    padding: 10px;
+    font-family: 'lucida console', Monospace;
+}
+
+h1{
+    background-color: #8f9191;
+    color: #F7F9F9;
+    padding: inherit;
+}
+
+p{
+    padding: 8px;
+    margin: auto;
+}
+
+p.fourteen {
+    background-color:#21618C ;
+    color: #F7F9F9  ;
+}
+
+p.thirteen{
+    background-color:#2874A6 ;
+    color:#F7F9F9 ;
+}
+
+p.twelve{
+    background-color:#2E86C1 ;
+    color: #F7F9F9;
+}
+
+p.eleven{
+    background-color:#3498DB ;
+    color: #F7F9F9;
+}
+
+p.ten{
+    background-color:#5DADE2;
+    color: #F7F9F9;
+}
+
+p.nine{
+    background-color: #85C1E9;
+    color: #F7F9F9;
+}
+
+p.eight{
+    background-color: #AED6F1;
+    color: #F7F9F9;
+}
+
+p.seven {
+    background-color: #1ABC9C;
+    color: #F7F9F9;
+}
+
+p.six{
+    background-color: #633974;
+    color: #F7F9F9 ;
+}
+
+p.five{
+    background-color:#76448A ;
+    color: #F7F9F9;
+}
+
+p.four{
+    background-color: #884EA0;
+    color: #F7F9F9;
+}
+
+p.three{
+    background-color:#9B59B6 ;
+    color: #F7F9F9;
+}
+
+p.two{
+    background-color: #AF7AC5;
+    color: #F7F9F9;
+}
+
+p.one{
+    background-color: #C39BD3 ;
+    color: #F7F9F9;
+}
+
+p.zero{
+    background-color: #D7BDE2 ;
+    color: #F7F9F9;
+}
