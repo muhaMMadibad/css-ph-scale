@@ -1,7 +1,9 @@
-body{
-    background-color:#CACFD2 ;
-    padding: 10px;
-    font-family: 'lucida console', Monospace;
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+*{
+  
+  font-family: 'Libre Baskerville', serif;
+}
+
 }
 
 h1{
